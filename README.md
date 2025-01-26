@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @dheenarocky
 - 👀 I’m interested in exploring the tech world
-- 🌱 I’m currently learning JavaScript,HTML,Python
+- ## 🛠️ Technologies & Tools
+I work with a variety of tools and programming languages, including:
+- Java
+- C
+- PHP 
+- Python (Flask)
+- Oracle, MySQL
+- VSCode, Netbeans, Eclipse
+- 🌱 I’m currently learning JavaScript(Angular JS)
 - 💞️ I’m looking to collaborate on mastering the HTML Codes and javascripts
 - 📫 You can reach me by my mail id: www.dheenarockstar@gmail.com
 
